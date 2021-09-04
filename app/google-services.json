@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "848581404991",
+    "project_id": "core-subject-corner",
+    "storage_bucket": "core-subject-corner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848581404991:android:2bae77cbe7d6df5d4d4b8a",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848581404991-n9tn60ekt7jgsaua5tplfp562077jl5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "4631701edf6143742481df91bc9d2bc87db839a6"
+          }
+        },
+        {
+          "client_id": "848581404991-pqesfmnmdscbu6iedsdj4b18nb1kpe4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoiXaSzn9-a7op4TzUx-PvGEcIl6zJETw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848581404991-pqesfmnmdscbu6iedsdj4b18nb1kpe4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848581404991:android:fa0e5cd56e13fbcd4d4b8a",
+        "android_client_info": {
+          "package_name": "com.example.firebaseml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848581404991-pqesfmnmdscbu6iedsdj4b18nb1kpe4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoiXaSzn9-a7op4TzUx-PvGEcIl6zJETw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848581404991-pqesfmnmdscbu6iedsdj4b18nb1kpe4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

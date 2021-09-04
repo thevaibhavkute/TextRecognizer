@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextRecognizer</string>
+    <string name="todo" />
+    <string name="textview" />
+</resources>
