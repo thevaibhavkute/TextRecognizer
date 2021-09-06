@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
         }
         if (requestCode == 100) {
 
-            //code taken from G - Dev page
+            //code taken from Google - Dev page
             final Task<Text> result =
                     recognizer.process(image)
                             .addOnSuccessListener(new OnSuccessListener<Text>() {
